@@ -1,0 +1,102 @@
+[
+    
+{
+
+        "id":"1",
+        "title":"Aaja Saroja",
+        "song":"/audio/Aaja Saroja.mp3",
+        "movie":"Aagadu",
+        "image":"/Images/aaja saroja.jpg"
+    },
+    {
+        "id":"2",
+        "title":"Baitikochi Chuste ",
+        "song":"/audio/Baitikochi Chuste.mp3",
+        "movie":"Agnathavasi",
+        "image":"/Images/Baitikochi-Chuste.jpg"
+    },
+    {
+        "id":"3",
+        "title":"Hoyna Hoyna",
+        "song":"/audio/Hoyna Hoyna.mp3",
+        "movie":"Gang Leader",
+        "image":"/Images/hoyna hoyna.webp"
+    },
+    {
+        "id":"4",
+        "title":"Gaali Vaaluga",
+        "song":"/audio/Gaali Vaaluga.mp3",
+        "movie":"Agnathavasi",
+        "image":"/Images/gaalivaaluga.jpg"
+    },
+    {
+        "id":"5",
+        "title":"Ninnu Choose Aanandam lo",
+        "song":"/audio/Ninnu Chuse Anandamlo.mp3",
+        "movie":"Gang Leader",
+        "image":"/Images/Ninnu-Chuse-Anandamlo.jpg"
+    },
+    {
+        "id":"6",
+        "title":"Gundellona Gundellona",
+        "song":"/audio/Gundellonaa.mp3",
+        "movie":"Ori Devuda",
+        "image":"/Images/gundellona gundellona.jpg"
+    },
+    {
+        "id":"7",
+        "title":"Guruvaram March Okati",
+        "song":"/audio/Guruvaram.mp3",
+        "movie":"Dookudu",
+        "image":"/Images/guruvaram.jpg"
+    },
+    {
+        "id":"8",
+        "title":"Enno Enno Varnala",
+        "song":"/audio/Yenno Yenno.mp3",
+        "movie":"Malli Malli idhi rani roju",
+        "image":"/Images/enno enno.jpg"
+    },
+    {
+        "id":"9",
+        "title":"Yemito Ivvala",
+        "song":"/audio/Yemito.mp3",
+        "movie":"Andala Rakshasi",
+        "image":"/Images/yemito.jpg"
+    },
+    {
+        "id":"10",
+        "title":"Saradhaga Kasepaina",
+        "song":"/audio/Saradaga Kasepaina.mp3",
+        "movie":"Paagal",
+        "image":"/Images/saradhaga.jpg"
+    },
+    {
+        "id":"11",
+        "title":"Ee Raathale",
+        "song":"/audio/Ee Raathale.mp3",
+        "movie":"Radhe Shyam",
+        "image":"/Images/ee raathale.jpeg"
+    },
+    {
+        "id":"12",
+        "title":"Laychalo",
+        "song":"/audio/Laychalo.mp3",
+        "movie":"Bruce Lee",
+        "image":"/Images/Leychalo.jpg"
+    },
+    {
+        "id":"13",
+        "title":"Riya Riya",
+        "song":"/audio/Ria.mp3",
+        "movie":"Bruce Lee",
+        "image":"/Images/riya riya.jpg"
+    }
+    
+
+
+
+]
+
+
+    
